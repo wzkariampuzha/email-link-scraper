@@ -1,4 +1,7 @@
 # email-link-scraper
-Extract links and emails - adapted from DiegoCaraballo/Email-extractor
+Extract links, emails,and phone numbers at two levels - inspired by DiegoCaraballo/Email-extractor
 
-Currently in progress
+to activate the environment
+`conda env create -f env.yaml`
+
+
